@@ -5,9 +5,15 @@ Visual cryptography, an emerging cryptography technology, uses the characteristi
 
 
 STEPS:
+
 1.)SAVE all the files in the same directory
+
 2.)Run the CMY.py file
+
 3.)Run Halftone.py file
+
 4.)Run main.py file
+
 5.)Run output.py file
+
 6.)A final image will be saved in the same directory
